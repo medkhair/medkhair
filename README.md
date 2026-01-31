@@ -53,43 +53,25 @@ I'm a passionate **Full Stack Web Developer** with a knack for creating dynamic 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medkhair&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medkhair&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=medkhair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=medkhair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medkhair&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎓 [E-Sagim](https://github.com/medkhair/E-SAGIM-Front)
-School Management System built with React and Spring Boot
-- 🔐 Secure authentication with Spring Security
-- 📊 Real-time data management
-- 🎨 Modern UI/UX design
-
-### 🎬 [Rate Movies](https://github.com/medkhair/Rate-Movies)
-Movie rating platform with search and watchlist features
-- 🔍 Dynamic movie search
-- ⭐ Personal rating system
-- 💾 Watchlist functionality
-
-### 🍽️ [My Taste](https://github.com/medkhair/My_taste_V1-Dynamic-Site-)
-Global cuisine discovery platform
-- 🌍 Explore dishes from every country
-- 📖 Traditional recipes
-- 🎨 Beautiful UI design
-
----
 
 ## 💼 Professional Experience
 
-**Web Developer** @ Digital Speak *(May 2025 - Present)*
+**Web Developer** @ Digital Speak *(Dec 2045 - Present)*
 - Building landing pages and sales funnels
 - API integration and full-stack development
 - Code reviews and team collaboration
+- Creating web applications
 
 **Intern Web Developer** @ Oriental Group *(Sep 2024 - Oct 2024)*
 - WordPress development for e-commerce
@@ -98,13 +80,34 @@ Global cuisine discovery platform
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=medkhair&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=medkhair&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://medkhair.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/mohammed-khair-souiba-32a59632b)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medkhair)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souibamohammedkhair@gmail.com)
 
 </div>
 
@@ -114,6 +117,6 @@ Global cuisine discovery platform
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=medkhair&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=medkhair&color=64ffda&style=flat)
 
 </div>

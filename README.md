@@ -1,14 +1,119 @@
-<h1 align="center">Hi 👋, I'm Souiba Mohammed-khair</h1>
-<h3 align="center">A passionate web developer from Morocco</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Mohammed-Khair Souiba
 
-- 🌱 I’m currently learning **DevOps**
+### Full Stack Web Developer | Problem Solver | Tech Enthusiast
 
-- 📫 How to reach me **souibamohammedkhair@gmail.com**
+[![GitHub followers](https://img.shields.io/github/followers/medkhair?style=social)](https://github.com/medkhair)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/mohammed-khair-souiba-32a59632b)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/medkhair_souiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medkhair_souiba" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Web Developer** with a knack for creating dynamic and responsive web applications. I thrive on turning complex problems into elegant solutions through clean and efficient code.
+
+- 💼 Currently working at **Digital Speak**
+- 🎓 Studying **IT Development** at SAGIM School
+- 🌱 Always learning and exploring new technologies
+- 💡 Focused on building scalable and user-friendly applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medkhair&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medkhair&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 [E-Sagim](https://github.com/medkhair/E-SAGIM-Front)
+School Management System built with React and Spring Boot
+- 🔐 Secure authentication with Spring Security
+- 📊 Real-time data management
+- 🎨 Modern UI/UX design
+
+### 🎬 [Rate Movies](https://github.com/medkhair/Rate-Movies)
+Movie rating platform with search and watchlist features
+- 🔍 Dynamic movie search
+- ⭐ Personal rating system
+- 💾 Watchlist functionality
+
+### 🍽️ [My Taste](https://github.com/medkhair/My_taste_V1-Dynamic-Site-)
+Global cuisine discovery platform
+- 🌍 Explore dishes from every country
+- 📖 Traditional recipes
+- 🎨 Beautiful UI design
+
+---
+
+## 💼 Professional Experience
+
+**Web Developer** @ Digital Speak *(May 2025 - Present)*
+- Building landing pages and sales funnels
+- API integration and full-stack development
+- Code reviews and team collaboration
+
+**Intern Web Developer** @ Oriental Group *(Sep 2024 - Oct 2024)*
+- WordPress development for e-commerce
+- PHP application development
+- Client and order management systems
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/mohammed-khair-souiba-32a59632b)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=medkhair&color=brightgreen)
+
+</div>

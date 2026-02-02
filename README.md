@@ -67,7 +67,7 @@ I'm a passionate **Full Stack Web Developer** with a knack for creating dynamic 
 
 ## 💼 Professional Experience
 
-**Web Developer** @ Digital Speak *(Dec 2045 - Present)*
+**Web Developer** @ Digital Speak *(Dec 2024 - Present)*
 - Building landing pages and sales funnels
 - API integration and full-stack development
 - Code reviews and team collaboration

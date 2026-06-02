@@ -15,8 +15,6 @@
 
 I'm a passionate **Full Stack Web Developer** with a knack for creating dynamic and responsive web applications. I thrive on turning complex problems into elegant solutions through clean and efficient code.
 
-- 💼 Currently working at **Digital Speak**
-- 🎓 Studying **IT Development** at SAGIM School
 - 🌱 Always learning and exploring new technologies
 - 💡 Focused on building scalable and user-friendly applications
 

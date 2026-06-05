@@ -13,7 +13,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://ma.linkedin.com/in/mohammed-khair-souiba-32a59632b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://ma.linkedin.com/in/mohammed-khair-souiba)
 
 </div>
 
@@ -102,7 +102,7 @@ Management platform for handling extracurricular activities, payments, registrat
 
 ## Full-Stack Web Developer @ Digital Speak
 
-**Dec 2024 – Present**
+**Dec 2024 – Apr 2026**
 
 * Building scalable web applications, landing pages, and sales funnels.
 * Integrating APIs and third-party services.
@@ -121,58 +121,9 @@ Management platform for handling extracurricular activities, payments, registrat
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=medkhair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medkhair&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=medkhair&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=medkhair&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=medkhair&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
 # 📫 Let's Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=react\&logoColor=white)](https://medkhair.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://ma.linkedin.com/in/mohammed-khair-souiba-32a59632b)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/medkhair)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:souibamohammedkhair@gmail.com)
-
-</div>
-
+<div align="center"> [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://medkhair.vercel.app/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/mohammed-khair-souiba) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medkhair) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souibamohammedkhair@gmail.com) </div>
 ---
 
 <div align="center">

@@ -44,6 +44,10 @@ My focus is not just writing code, but creating systems that help businesses ope
 
 # 🚀 Featured Projects
 
+## 📺 AstraFlow
+
+an IPTV streaming platform that I built to manage and deliver TV channels through subscription plans.
+
 ## 🎙️ Broadkast
 
 Studio booking platform that streamlines scheduling, reservation management, and customer interactions.
